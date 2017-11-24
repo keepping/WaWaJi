@@ -1,0 +1,13 @@
+//
+//  LCYLoginViewController.h
+//  WaWaJi
+//
+//  Created by 刘岑颖 on 2017/11/20.
+//  Copyright © 2017年 lcying. All rights reserved.
+//
+
+#import "BaseViewController.h"
+
+@interface LCYLoginViewController : BaseViewController
+
+@end
